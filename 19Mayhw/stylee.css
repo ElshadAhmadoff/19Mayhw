@@ -1,0 +1,23 @@
+.wrapper {
+    position: relative;
+    width: 300px;
+    margin: 0px 10px 10px 0px;
+    display: inline-block;
+    height: 300px;
+}
+.wrapper img {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-image: url("./sea-photo.jpg");
+}
+.container{
+    margin-top: 100px;
+}
+h1{
+    color: white;
+}
+
